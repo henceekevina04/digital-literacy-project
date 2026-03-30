@@ -25,7 +25,7 @@ For this task, I built my digital presence by creating and updating profiles on 
 ## Task 3 – Coding & Collaboration Platforms
 In this task, I explored coding and collaboration tools. I completed a beginner-level coding challenge on a practice platform to improve my problem-solving skills. Additionally, I created a Digital Literacy Awareness Quiz using Google Forms and linked it to a response sheet. This task helped me learn how to use online tools for collaboration and data collection.
 
-Google Form Link: https://github.com/Sricharan-S12/Digital-Literacy/tree/main
+Google Form Link: https://forms.gle/wAdLVQ4pxUt2hqz4A
 
 ---
 
