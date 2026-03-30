@@ -1,8 +1,11 @@
 # Digital Literacy Project
 
 Name: Hencee Kevina A.J
-Reg No: 25MIM10164 
-Branch: Int.MTech AI  
+
+Reg No: 25MIM10164
+
+Branch: Int.MTech AI
+
 
 ## Project Overview
 This repository contains my Digital Literacy Portfolio developed as part of the CSE0001 course at VIT Bhopal University. The project focuses on building essential digital skills such as online presence, professional communication, collaboration tools, and cyber safety awareness.
